@@ -1,0 +1,131 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 656px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.25rem;
+  margin: 87px 921px 0 27px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 328px;
+  margin: -54px 0 0 201px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: -247px 921px 0 27px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  margin: 35px 921px 0 27px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 35px 921px 0 27px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  background-image: none;
+  margin: 167px auto 0 0;
+  padding: 7px 29px 9px 27px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none;
+  background-image: none;
+  margin: -43px 0 60px auto;
+  padding: 8px 28px 8px 27px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: -396px;
+    margin-right: 748px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 1px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 748px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 748px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 748px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 528px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 528px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 528px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 528px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 348px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 348px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 348px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 348px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 148px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 148px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 148px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 148px;
+  }
+}
